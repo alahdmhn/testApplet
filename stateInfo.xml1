@@ -1,0 +1,13 @@
+<StateInfo>
+<ExpandNodes>
+<PkgNodes>
+<Node>testApplet</Node>
+</PkgNodes>
+</ExpandNodes>
+<FileNodes>
+<fnode>
+<fileName>src\testApplet\testApplet.java</fileName>
+<line>0</line>
+</fnode>
+</FileNodes>
+</StateInfo>
